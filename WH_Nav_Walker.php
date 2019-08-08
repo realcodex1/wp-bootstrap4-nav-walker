@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Class Name: WebberHub_Bootstrap_Nav_Walker
+ * Class Name: WH Nav Walker
  * Plugin URI:  https://github.com/webberhub/wp-bootstrap4-nav-walker
  * Description: This is a custom WordPress Bootstrap Nav Walker Class for Wordpress Developers.
  * Author: Nirosh Webber (Niroshan Wanigasingha)
  * Version: 1.0.0
- * Author URI: https://github.com/webberhub/
+ * Author URI: https://webberhub.com
  * GitHub Branch: master
  * License: MIT
  */
@@ -16,7 +16,7 @@ if ( !defined( 'ABSPATH' ) ) {
 }
 
 
-class WebberHub_Bootstrap_Nav_Walker extends Walker_Nav_Menu{
+class WH_Nav_Walker extends Walker_Nav_Menu{
 
 	public function start_lvl( &$output, $depth = 0, $args = array() ) {
         $indent = str_repeat("\t", $depth);
