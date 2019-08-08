@@ -16,8 +16,8 @@ You can find full giude of successfully adding this navigation bar into your cos
 
 if you need any help further.. Contact me
 
-Email:    niroshwebber@gmail.com
-Website:  https://webberhub.com
-Facebook: https://www.facebook.com/webberhub
-Twitter:  @webberhub
-Github:   https://github.com/webberhub
+Email:    niroshwebber@gmail.com <br>
+Website:  https://webberhub.com <br>
+Facebook: https://www.facebook.com/webberhub <br>
+Twitter:  @webberhub <br>
+Github:   https://github.com/webberhub <br>
