@@ -8,16 +8,10 @@ You can use WH_Nav_Walker class for make your own navigation bar for WordPress c
 2) Smooth functionning.
 3) Update navigation menu items using WordPress dashboard.
 
-You can find full giude of successfully adding this navigation bar into your costom wordpress theme also..
-
-<a href="https://webberhub.com/article-bootstrap-navbar-into-wordpress-theme-with-wh-nav-walker.html">Integrate Bootstrap Navbar into WordPress Theme with WH Nav Walker</a>
-
-<center><img src="https://webberhub.com/uploads/images/Integrate-Bootstrap-Navbar-into-WordPress-Theme-with-WH-Nav-Walker.jpg"></img><center>
-
 if you need any help further.. Contact me
 
-Email:    niroshwebber@gmail.com <br>
-Website:  https://webberhub.com <br>
-Facebook: https://www.facebook.com/webberhub <br>
-Twitter:  @webberhub <br>
-Github:   https://github.com/webberhub <br>
+Email:    info@realcodex.com <br>
+Website:  https://realcodex.com <br>
+Facebook: https://www.facebook.com/RealCodexSolutions <br>
+Twitter:  @realcodex1 <br>
+Github:   https://github.com/realcodex1 <br>
